@@ -1255,17 +1255,12 @@ Every incoming connection (whether from tracker or client) is handled in a **sep
 
 ---
 
-## 👨‍💻 Author
+##👩‍💻 Author
 
-**Ayush Rai**
+Samya
 
-📧 Email: [ayushrai.cse@gmail.com](mailto:ayushrai.cse@gmail.com)
+🎓 Computer Science & Engineering
+💡 Interests: Distributed Systems, Systems Programming, Networking, Backend Engineering
+🛠️ Tech Stack: C++, Multithreading, TCP/IP Sockets, Linux, OpenSSL, System Design
 
-
-
-
-
-
-
-
-
+📧 Email: samyakuki@gmail.com
