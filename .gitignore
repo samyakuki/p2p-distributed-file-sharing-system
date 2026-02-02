@@ -1,0 +1,11 @@
+# Ignore all text files
+hi.txt
+
+# Ignore all PDF files
+hi.pdf
+
+# Ignore all executables in the build folder (any file without extension)
+build/*
+extra/*
+
+.env
